@@ -1,0 +1,46 @@
+{
+  "name": "projetomodelo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
+    "@expo/vector-icons": "^14.1.0",
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-native-community/datetimepicker": "^8.3.0",
+    "@react-native-picker/picker": "2.11.0",
+    "@react-navigation/drawer": "^7.3.9",
+    "@react-navigation/native": "^7.1.6",
+    "@react-navigation/native-stack": "^7.3.10",
+    "@react-navigation/stack": "^7.2.10",
+    "axios": "^1.9.0",
+    "cpf-cnpj-validator": "^1.0.3",
+    "expo": "^53.0.11",
+    "expo-checkbox": "~4.1.4",
+    "expo-file-system": "~18.1.10",
+    "expo-sharing": "~13.1.5",
+    "expo-status-bar": "~2.2.3",
+    "jwt-decode": "^4.0.0",
+    "libphonenumber-js": "^1.12.7",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "0.79.3",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-paper": "^5.14.5",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-uuid": "^2.0.3",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-web": "^0.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

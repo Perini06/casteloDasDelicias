@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Projeto Modelo (ARA0089)",
+    "slug": "projetoModelo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "rgb(20 75 200)"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "rgb(20 75 200)"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/image.png"
+    }
+  }
+}
